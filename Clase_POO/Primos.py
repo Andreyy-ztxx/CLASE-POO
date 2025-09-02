@@ -16,4 +16,7 @@ while (contador < 1000):
 
     if (Primos(numer)):
         print (numer) 
-       
+        contador_primos += 1
+    contador += 1
+    numer += 1
+   
