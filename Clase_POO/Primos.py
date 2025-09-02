@@ -8,6 +8,9 @@ def Primos(numero):
             return False
         return True
 
+numer = 2
+contador = 0
+contador_primos= 0
 
 
        
