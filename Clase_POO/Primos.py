@@ -12,5 +12,8 @@ numer = 2
 contador = 0
 contador_primos= 0
 
+while (contador < 1000): 
 
+    if (Primos(numer)):
+        print (numer) 
        
