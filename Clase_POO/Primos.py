@@ -19,4 +19,5 @@ while (contador < 1000):
         contador_primos += 1
     contador += 1
     numer += 1
-   
+    if (contador_primos == 50):
+        break
